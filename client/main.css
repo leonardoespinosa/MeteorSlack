@@ -1,0 +1,14 @@
+#container {
+  max-height: 100vh!important;
+  max-width: 100vw!important;
+}
+
+.messages__message-list {
+  height: 40vh;
+  overflow-y:scroll;
+  white-space:nowrap;
+}
+
+.channels__channel-list {
+  overflow-x:scroll;
+}

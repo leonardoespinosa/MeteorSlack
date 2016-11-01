@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "classnames": "^2.2.5",
+    "cloudinary": "^1.3.1",
+    "jquery": "^2.2.4",
+    "meteor-node-stubs": "^0.2.3",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
